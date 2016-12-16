@@ -40,5 +40,6 @@ div.book img{height:200px; margin:0 10px}
 	}
 
 ?>
+<h1> xin chao thay va cac ban</h1>
 </body>
 </html>
