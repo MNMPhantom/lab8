@@ -63,6 +63,7 @@ $db= new Db();
   <tr>
     <td colspan="3">&nbsp;</td>
   </tr>
+  <tr><td>Gia tri thay doi</td><td>Ten thay doi</td></tr>
 </table>
 </body>
 </html>
