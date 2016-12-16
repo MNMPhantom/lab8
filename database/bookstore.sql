@@ -82,8 +82,7 @@ INSERT INTO `book` VALUES ('th16', 'Tuyển Tập Thủ Thuật Javascript - T�
 INSERT INTO `book` VALUES ('th17', 'Thiết Kế Web Với CSS', '\r\nTừ khi được giới thiệu năm 1996, bảng kiểu xếp tầng (CSS) đã làm thay đổi đáng kể thiết kế Web. Hiện nay, phần lớn trang Web đều sử dụng CSS và nhiều nhà thiết kế đã xây dựng các bố cục trang hoàn toàn dựa trên CSS. Để thực hiện điều này một cách thành công, đòi hỏi chúng ta phải hiểu biết kỹ về nội dung hoạt động của CSS. Sách Thiết Kế Web Với CSS cung cấp cho bạn những vấn đề cần thiết để sử dụng CSS. ', '82000', 'th17.jpg', 'gd', 'th');
 INSERT INTO `book` VALUES ('th18', 'Thiết Kế Web Với JavaScript Và Dom', 'Nội dung cuốn sách \"Thiết Kế Web Với JavaScript Và Dom\" giới thiệu về ngôn ngữ lập trình, nhưng nó không chỉ dành riêng cho các lập trình viên, mà còn rất có ích cho các nhà thiết kế Web.', '79000', 'th18.jpg', 'gd', 'th');
 INSERT INTO `book` VALUES ('th88', 'sach giao khoa lop 10', '?', '30000', 'th18.jpg', 'gd', 'gk');
-
--- ----------------------------
+INSERT INTO `book` VALUES ('th90', 'sach ki thuat lap trinh', '?', '50000', 'th18.jpg', 'gd', 'gk');
 -- Table structure for category
 -- ----------------------------
 DROP TABLE IF EXISTS `category`;
