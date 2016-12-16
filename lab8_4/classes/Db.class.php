@@ -33,7 +33,7 @@ class Db{
 			$stm = $this->dbh->prepare($sql);
 			if (!$stm->execute( $arr)) 
 				{
-				echo "Sql lỗi."; exit;	
+				echo "Error."; exit;	
 				}
 			$this->_numRow = $stm->rowCount();
 			return $stm->fetchAll($mode);
